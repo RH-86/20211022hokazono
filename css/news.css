@@ -1,0 +1,35 @@
+
+
+.news-content {
+  margin: 0 80px;
+  margin-bottom: 100px;
+
+}
+
+.news-item {
+  display: flex;
+  align-items: center;
+  border: #000 solid 1px;
+  margin-bottom: 10px;
+}
+
+.news-item a {
+  display: block;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 30px;
+}
+
+.news-item a:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+.news-item__content {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+

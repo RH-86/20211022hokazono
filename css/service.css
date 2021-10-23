@@ -1,0 +1,33 @@
+.service-content {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 150px;
+}
+
+.service-content__item {
+  display: flex;
+  flex-direction: row;
+  margin: 0 80px;
+  padding: 20px 0;
+  border-top: #000 solid 1px;
+}
+
+.service-content__item:last-child {
+  border-bottom: #000 solid 1px;
+}
+
+.service-content__item img {
+  width: 300px;
+  margin-right: 30px;
+}
+
+.service-content__item-ttl {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+
+
+
+

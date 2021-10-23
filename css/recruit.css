@@ -1,0 +1,38 @@
+.recruit-item {
+  margin: 0 80px;
+  margin-bottom: 70px;
+}
+
+.recruit-ttl {
+  font-size: 36px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  border-bottom: #000 solid 1px;
+}
+
+.recruit-cont {
+  margin: 30px 0;
+}
+
+.recruit-table {
+  width: 100%;
+}
+
+.recruit-table tr{
+  border: #000 solid 1px;
+}
+
+.recruit-table th {
+  width: 30%;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+  border-right: #000 solid 1px;
+  background-color: #eee;
+}
+
+.recruit-table td {
+  padding-left: 10px;
+  font-size: 16px;
+}
