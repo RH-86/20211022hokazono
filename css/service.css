@@ -31,3 +31,18 @@
 
 
 
+
+@media screen and (max-width:768px) {
+  .service-content__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .service-content__item img {
+    width: 100%;
+    height: auto;
+    margin-right: 0;
+  }
+}
